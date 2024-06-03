@@ -1,1 +1,1 @@
-# acadameic-projects
+# Projects
